@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Olaf Haag -- Programming -- @olafhaag3D
+
+# THANKS
+
+    Dr. Alexander Monas for the idea.
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css, Chart.js, SurveyJS
